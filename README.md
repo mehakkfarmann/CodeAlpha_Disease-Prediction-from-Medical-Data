@@ -14,7 +14,7 @@ This project is part of my **Machine Learning Internship at https://www.codealph
 ##  Dataset
 Used public medical datasets like:
 - Heart Disease Dataset (Kaggle)
-- 
+
 Each record includes patient attributes like:
 - Age, Gender, Blood Pressure  
 
